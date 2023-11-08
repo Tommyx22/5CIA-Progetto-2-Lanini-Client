@@ -22,15 +22,19 @@ server -> 4
 Esempio di output sul terminale del client:
 
 Connessione effettuata
+
 Inserisci il numero:
 12
 Numero troppo piccolo
+
 Inserisci il numero:
 87
 Numero troppo grande
+
 Inserisci il numero:
 22
 Numero troppo piccolo
+
 Inserisci il numero:
 31
 HAI INDOVINATO IN 4 tentativi
