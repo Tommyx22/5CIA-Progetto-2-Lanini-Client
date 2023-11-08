@@ -1,10 +1,5 @@
 # 5CIA-Progetto-2-Lanini-Client
 
-Creare due progetti maven (uno per il server e uno per il client) e salvarli su repository git.
-I repo git non deveno avere i file compilati (cartella target)
-
----
-
 Realizzare un client/server tcp
 Il server si avvia e genera un numero random tra 1 e 100 che il client deve provare ad indovinare.
 Definire un protocollo di comunicazione (es. 1->numero troppo piccolo, 2->numero troppo grande, 3->numero indovinato)
